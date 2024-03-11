@@ -50,7 +50,7 @@
   "overrides": {
     "svgo": "3.0.2"
   },
-  "description": "Paper Kit React is a free Bootstrap 4, React, React Hooks and Reactstrap UI Kit with pale colors, beautiful typography and thoughtful drawings. We've created it having paper and drawings in mind.",
+  "description": "Wanderly is a free Bootstrap 4, React, React Hooks and Reactstrap UI Kit with pale colors, beautiful typography and thoughtful drawings. We've created it having paper and drawings in mind.",
   "main": "src/assets/scss/paper-kit.scss",
   "repository": {
     "type": "git",
@@ -74,7 +74,7 @@
     "react-template",
     "react-theme"
   ],
-  "author": "Creative Tim",
+  "author": "Lauren Roth",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/creativetimofficial/paper-kit-react/issues"

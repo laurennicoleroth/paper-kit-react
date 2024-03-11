@@ -99,8 +99,8 @@ You should use
 
 ### Added dependencies
 
-- gulp@4.0.2 (for Creative Tim copyrights)
-- gulp-append-prepend@1.0.8 (for Creative Tim copyrights)
+- gulp@4.0.2 (for Lauren Roth copyrights)
+- gulp-append-prepend@1.0.8 (for Lauren Roth copyrights)
 
 ### Updated dependencies
 
@@ -119,7 +119,7 @@ typescript          3.5.2   →     3.9.5
 
 ### Warning
 
-_All the following products: Paper Kit React, Paper Dashboard React, Paper Kit PRO React and Paper Dashboard PRO React have been updated together, and thus, we've added to all of them the same version of 1.2.0 - we may have skipped some versions for some of the above products, we've done so, since we want all Paper & React products to share the same versions._
+_All the following products: Wanderly, Paper Dashboard React, Paper Kit PRO React and Paper Dashboard PRO React have been updated together, and thus, we've added to all of them the same version of 1.2.0 - we may have skipped some versions for some of the above products, we've done so, since we want all Paper & React products to share the same versions._
 _While in development some of the plugins that were used for this product will throw some warnings - note, this only happens in development, the UI or the functionality of the product is not affected, also, if the issues will persist in React 17, we'll drop usage of those plugins, and replace them with other ones._
 _Warnings might appear while doing an npm install - they do not affect the UI or the functionality of the product, and they appear because of NodeJS and not from the product itself._
 
@@ -128,4 +128,4 @@ _Warnings might appear while doing an npm install - they do not affect the UI or
 ### Original Release
 
 - Added Reactstrap as base framework
-- Added design from Paper Kit 2 by Creative Tim
+- Added design from Paper Kit 2 by Lauren Roth
