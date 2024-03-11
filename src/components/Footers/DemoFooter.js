@@ -4,9 +4,9 @@
 * Wanderly - v1.3.2
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
+* Product Page: https://www.wanderly.world/product/paper-kit-react
 
-* Copyright 2023 Lauren Roth (https://www.creative-tim.com)
+* Copyright 2023 Lauren Roth (https://www.wanderly.world)
 * Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/main/LICENSE.md)
 
 * Coded by Lauren Roth
@@ -31,7 +31,7 @@ function DemoFooter() {
             <ul>
               <li>
                 <a
-                  href="https://www.creative-tim.com?ref=pkr-footer"
+                  href="https://www.wanderly.world?ref=pkr-footer"
                   target="_blank"
                 >
                   Lauren Roth
@@ -47,7 +47,7 @@ function DemoFooter() {
               </li>
               <li>
                 <a
-                  href="https://www.creative-tim.com/license?ref=pkr-footer"
+                  href="https://www.wanderly.world/license?ref=pkr-footer"
                   target="_blank"
                 >
                   Licenses

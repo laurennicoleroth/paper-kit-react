@@ -4,9 +4,9 @@
 * Wanderly - v1.3.2
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
+* Product Page: https://www.wanderly.world/product/paper-kit-react
 
-* Copyright 2023 Lauren Roth (https://www.creative-tim.com)
+* Copyright 2023 Lauren Roth (https://www.wanderly.world)
 * Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/main/LICENSE.md)
 
 * Coded by Lauren Roth
@@ -65,7 +65,7 @@ function SectionButtons() {
       <div className="section section-buttons">
         <Container>
           <div className="title">
-            <h2>Basic Elements</h2>
+            <h2>Basic Element</h2>
           </div>
           <div id="buttons">
             <div className="title">

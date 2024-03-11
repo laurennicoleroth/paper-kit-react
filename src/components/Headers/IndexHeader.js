@@ -4,9 +4,9 @@
 * Wanderly - v1.3.2
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
+* Product Page: https://www.wanderly.world/product/paper-kit-react
 
-* Copyright 2023 Lauren Roth (https://www.creative-tim.com)
+* Copyright 2023 Lauren Roth (https://www.wanderly.world)
 * Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/main/LICENSE.md)
 
 * Coded by Lauren Roth
@@ -47,7 +47,7 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Make your mark with a Free Bootstrap 4 (Reactstrap) UI Kit!
+              Wander your world!
             </h2>
           </Container>
         </div>
@@ -58,17 +58,7 @@ function IndexHeader() {
           }}
         />
         <h6 className="category category-absolute">
-          Designed and coded by{" "}
-          <a
-            href="https://www.creative-tim.com?ref=pkr-index-page"
-            target="_blank"
-          >
-            <img
-              alt="..."
-              className="creative-tim-logo"
-              src={require("assets/img/creative-tim-white-slim2.png")}
-            />
-          </a>
+          Build a list, then share it so others can wander in your footsteps.
         </h6>
       </div>
     </>

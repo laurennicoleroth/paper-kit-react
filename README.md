@@ -45,7 +45,7 @@ Once you download the archive, you will be able find a tutorial page inside it e
 
 | HTML                                                                                                                                                                                                             | Angular                                                                                                                                                                                                                                | React                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![Paper Kit 2 HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-html/opt_pk2_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2?ref=pkr-github-readme) | [![Paper Kit 2 Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-angular/opt_pk2_angular_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2-angular?ref=pkr-github-readme) | [![Paper Kit  React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-react/opt_pk_react_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-react?ref=pkr-github-readme) |
+| [![Paper Kit 2 HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-html/opt_pk2_thumbnail.jpg)](https://www.wanderly.world/product/paper-kit-2?ref=pkr-github-readme) | [![Paper Kit 2 Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-angular/opt_pk2_angular_thumbnail.jpg)](https://www.wanderly.world/product/paper-kit-2-angular?ref=pkr-github-readme) | [![Paper Kit  React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-react/opt_pk_react_thumbnail.jpg)](https://www.wanderly.world/product/paper-kit-react?ref=pkr-github-readme) |
 
 | Register Page                                                                                                                                                                                                     | Landing Page                                                                                                                                                                                                   | Profile Page                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -148,29 +148,29 @@ At present, we officially aim to support the last two versions of the following 
 ## Resources
 
 - Demo: <http://demos.creative-tim.com/paper-kit-react/#/index?ref=pkr-github-readme>
-- Download Page: <https://www.creative-tim.com/product/paper-kit-react?ref=pkr-github-readme>
+- Download Page: <https://www.wanderly.world/product/paper-kit-react?ref=pkr-github-readme>
 - Documentation: <https://demos.creative-tim.com/paper-kit-react/#/documentation/introduction?ref=pkr-github-readme>
-- License Agreement: <https://www.creative-tim.com/license?ref=pkr-github-readme>
-- Support: <https://www.creative-tim.com/contact-us?ref=pkr-github-readme>
+- License Agreement: <https://www.wanderly.world/license?ref=pkr-github-readme>
+- Support: <https://www.wanderly.world/contact-us?ref=pkr-github-readme>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/paper-kit-react/issues)
 
 **Dashboards:**
 
 | HTML                                                                                                                                                                                                                              | React                                                                                                                                                                                                                                          | Vue                                                                                                                                                                                                                               | Angular                                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Paper Dashboard  HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-html/opt_pd2_thumbnail.jpg)](https://www.creative-tim.com/product/paper-dashboard-2?ref=pkr-github-readme) | [![Paper Dashboard  React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-react/opt_pd_react_thumbnail.jpg)](https://www.creative-tim.com/product/paper-dashboard-pro-react?ref=pkr-github-readme) | [![Vue Paper Dashboard](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-paper-dashboard/opt_pd_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-paper-dashboard?ref=pkr-github-readme) | [![ Paper Dashboard Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-angular/opt_pk2_angular_thumbnail.jpg)](https://www.creative-tim.com/product/paper-dashboard-angular?ref=pkr-github-readme) |
+| [![Paper Dashboard  HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-html/opt_pd2_thumbnail.jpg)](https://www.wanderly.world/product/paper-dashboard-2?ref=pkr-github-readme) | [![Paper Dashboard  React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-react/opt_pd_react_thumbnail.jpg)](https://www.wanderly.world/product/paper-dashboard-pro-react?ref=pkr-github-readme) | [![Vue Paper Dashboard](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-paper-dashboard/opt_pd_vue_thumbnail.jpg)](https://www.wanderly.world/product/vue-paper-dashboard?ref=pkr-github-readme) | [![ Paper Dashboard Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-angular/opt_pk2_angular_thumbnail.jpg)](https://www.wanderly.world/product/paper-dashboard-angular?ref=pkr-github-readme) |
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Paper Kit 2. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Paper Kit 2. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=pkr-github-readme).
+1. Make sure that you are using the latest version of the Paper Kit 2. Check the CHANGELOG from your dashboard on our [website](https://www.wanderly.world/?ref=pkr-github-readme).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Licensing
 
-- Copyright 2023 Lauren Roth (https://www.creative-tim.com/?ref=pkr-github-readme)
+- Copyright 2023 Lauren Roth (https://www.wanderly.world/?ref=pkr-github-readme)
 
 [changelog]: ./CHANGELOG.md
 [license]: ./LICENSE.md
@@ -178,15 +178,15 @@ We use GitHub Issues as the official bug tracker for the Paper Kit 2. Here are s
 ## Useful Links
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=pkr-github-readme) (earn money)
+- [Affiliate Program](https://www.wanderly.world/affiliates/new?ref=pkr-github-readme) (earn money)
 - [Blog Lauren Roth](http://blog.creative-tim.com/?ref=pkr-github-readme)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=pkr-github-readme) from Lauren Roth
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=pkr-github-readme) from Lauren Roth
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=pkr-github-readme) from Lauren Roth
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=pkr-github-readme) from Lauren Roth
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=pkr-github-readme) from Lauren Roth
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=pkr-github-readme) from Lauren Roth
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=pkr-github-readme)
+- [Free Products](https://www.wanderly.world/bootstrap-themes/free?ref=pkr-github-readme) from Lauren Roth
+- [Premium Products](https://www.wanderly.world/bootstrap-themes/premium?ref=pkr-github-readme) from Lauren Roth
+- [React Products](https://www.wanderly.world/bootstrap-themes/react-themes?ref=pkr-github-readme) from Lauren Roth
+- [Angular Products](https://www.wanderly.world/bootstrap-themes/angular-themes?ref=pkr-github-readme) from Lauren Roth
+- [VueJS Products](https://www.wanderly.world/bootstrap-themes/vuejs-themes?ref=pkr-github-readme) from Lauren Roth
+- [More products](https://www.wanderly.world/bootstrap-themes?ref=pkr-github-readme) from Lauren Roth
+- Check our Bundles [here](https://www.wanderly.world/bundles?ref=pkr-github-readme)
 
 ### Social Media
 

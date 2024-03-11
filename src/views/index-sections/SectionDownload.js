@@ -4,9 +4,9 @@
 * Wanderly - v1.3.2
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
+* Product Page: https://www.wanderly.world/product/paper-kit-react
 
-* Copyright 2023 Lauren Roth (https://www.creative-tim.com)
+* Copyright 2023 Lauren Roth (https://www.wanderly.world)
 * Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/main/LICENSE.md)
 
 * Coded by Lauren Roth
@@ -63,7 +63,7 @@ function SectionDownload() {
             <Col className="ml-auto mr-auto" sm="5">
               <Button className="btn-round" color="info" href="#pablo" disabled>
                 <i aria-hidden={true} className="nc-icon nc-spaceship" />{" "}
-                Upgrade to PRO
+                Download The App
               </Button>
             </Col>
           </Row>
